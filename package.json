@@ -1,9 +1,9 @@
 {
   "name": "clients-orders-app",
-  "version": "1.0.1",
-  "description": "Clients & Orders app (Node.js + PostgreSQL + HTML/CSS/JS). Render-ready.",
-  "main": "server.js",
+  "version": "1.0.0",
+  "description": "Clients & Orders app (Node + PostgreSQL + HTML/CSS/JS). Render-ready.",
   "type": "module",
+  "main": "server.js",
   "scripts": {
     "start": "node server.js",
     "dev": "nodemon server.js"
