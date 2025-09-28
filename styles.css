@@ -1,0 +1,17 @@
+*{box-sizing:border-box;font-family:system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,Cantarell,'Helvetica Neue',Arial}
+body{margin:0;background:#f6f7fb;color:#222}
+header{background:#111827;color:#fff;padding:16px 24px}
+header h1{margin:0;font-size:20px}
+main{max-width:1000px;margin:24px auto;padding:0 16px}
+.card{background:#fff;border:1px solid #e5e7eb;border-radius:14px;padding:16px;margin-bottom:16px;box-shadow:0 1px 2px rgba(0,0,0,.04)}
+.card h2{margin-top:0}
+label{display:block;margin:8px 0}
+input,textarea,select{width:100%;padding:8px;border-radius:10px;border:1px solid #d1d5db}
+button{padding:8px 12px;border:0;border-radius:10px;background:#2563eb;color:#fff;cursor:pointer}
+table{width:100%;border-collapse:collapse}
+th,td{border-bottom:1px solid #e5e7eb;padding:8px;text-align:left}
+.status-pill{padding:4px 8px;border-radius:999px;display:inline-block;font-size:12px}
+.status-pending{background:#fff7ed;border:1px solid #fdba74}
+.status-in_progress{background:#ecfeff;border:1px solid #67e8f9}
+.status-done{background:#ecfdf5;border:1px solid #86efac}
+.msg{min-height:20px;color:#ef4444}
